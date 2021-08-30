@@ -1,1 +1,1 @@
-# Heroku_News_category_prediction
+# Heroku_News_category_predictions
